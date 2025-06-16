@@ -100,6 +100,26 @@ Se for usar autenticação JWT:
 * Baixe o credentials.json
 * Salve em backend/firebase/credentials.json
 
+```json
+// colocar o conteúdo do arquivo JSON de credenciais do Firebase aqui
+// github nao deixa subir, foda
+
+
+{
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
+}
+```
+
 5. Frontend
 
 ```bash
